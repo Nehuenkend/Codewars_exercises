@@ -1,2 +1,2 @@
-# Codewars_exercises
-My solutions to some Codewars problems.
+#Codewars
+I leave here my answers to some codewars problems
