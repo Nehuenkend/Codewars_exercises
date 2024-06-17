@@ -1,3 +1,7 @@
+'''
+ take in an array of values and an integer indicating how many items will be allowed per each page. 
+ The types of values contained within the collection/array are not relevant.
+'''
 import math
 
 class PaginationHelper:
