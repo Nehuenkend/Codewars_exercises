@@ -1,7 +1,7 @@
 # 🏆 Codewars Solutions by Nehuen Kendziura
 
 📌 Este repositorio contiene soluciones a diversos desafíos de **Codewars**, resueltos en **Python**.  
-Cada solución incluye explicaciones y enfoques utilizados para resolver los problemas.
+Cada solución incluye explicaciones y enfoques utilizados para resolver los problemas.                     
 Los problemas y soluciones se encuentran en la carpeta "/Python"
 
 ---
